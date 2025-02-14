@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cosvopfop2s82"
+path.s3tc="res://.godot/imported/Rose FBX_11.png-c05a13a09864b8c83fa44e146f22a555.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "7f6ea6415b2242072924b615505b5dae"
+}
+
+[deps]
+
+source_file="res://assets/anime_girl/Rose FBX_11.png"
+dest_files=["res://.godot/imported/Rose FBX_11.png-c05a13a09864b8c83fa44e146f22a555.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
