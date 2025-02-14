@@ -164,10 +164,10 @@ script = ExtResource("1_migln")
 
 [node name="Rose FBX" parent="." instance=ExtResource("1_hgoiy")]
 transform = Transform3D(-0.357618, 0, 0.933868, 0, 1, 0, -0.933868, 0, -0.357618, 0, 0.371435, 0)
+visible = false
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
-visible = false
 mesh = SubResource("CapsuleMesh_cqwhn")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
